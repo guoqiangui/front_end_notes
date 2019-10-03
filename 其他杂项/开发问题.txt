@@ -1,0 +1,1 @@
+js动态加入的元素无法用querySelector读出（用事件委派）
